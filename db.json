@@ -1,0 +1,404 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Silent Shadows",
+      "author": "Elena Cross",
+      "genre": "Mystery",
+      "year": 2015,
+      "status": "Available"
+    },
+    {
+      "id": "2",
+      "title": "Whispers of the Mind",
+      "author": "Dr. Susan Blair",
+      "genre": "Psychology",
+      "year": 2018,
+      "status": "Issued"
+    },
+    {
+      "id": "3",
+      "title": "Twilight Memoirs",
+      "author": "Charlotte Bronte",
+      "genre": "Classic",
+      "year": 1852,
+      "status": "Available"
+    },
+    {
+      "id": "4",
+      "title": "Nightfall Crimes",
+      "author": "Jared Stone",
+      "genre": "Thriller",
+      "year": 2020,
+      "status": "Issued"
+    },
+    {
+      "id": "5",
+      "title": "Fictional Truths",
+      "author": "Helen Ward",
+      "genre": "Fiction",
+      "year": 2011,
+      "status": "Available"
+    },
+    {
+      "id": "6",
+      "title": "The Secret Heir",
+      "author": "Liam Davis",
+      "genre": "Mystery",
+      "year": 2016,
+      "status": "Available"
+    },
+    {
+      "id": "7",
+      "title": "The Mind Within",
+      "author": "Dr. Karen Holt",
+      "genre": "Psychology",
+      "year": 2013,
+      "status": "Issued"
+    },
+    {
+      "id": "8",
+      "title": "Echoes of War",
+      "author": "George T. Walker",
+      "genre": "Classic",
+      "year": 1922,
+      "status": "Available"
+    },
+    {
+      "id": "9",
+      "title": "Beneath the Surface",
+      "author": "Lena Ford",
+      "genre": "Thriller",
+      "year": 2019,
+      "status": "Available"
+    },
+    {
+      "id": "10",
+      "title": "Love and Legacy",
+      "author": "Diana Moore",
+      "genre": "Fiction",
+      "year": 2009,
+      "status": "Issued"
+    },
+    {
+      "id": "11",
+      "title": "Lost in the Fog",
+      "author": "Marcus Hill",
+      "genre": "Mystery",
+      "year": 2017,
+      "status": "Available"
+    },
+    {
+      "id": "12",
+      "title": "Cognitive Realms",
+      "author": "Emily Nash",
+      "genre": "Psychology",
+      "year": 2014,
+      "status": "Available"
+    },
+    {
+      "id": "13",
+      "title": "Victorian Days",
+      "author": "Clara Winfield",
+      "genre": "Classic",
+      "year": 1870,
+      "status": "Issued"
+    },
+    {
+      "id": "14",
+      "title": "Dark Waters",
+      "author": "Brian Colt",
+      "genre": "Thriller",
+      "year": 2021,
+      "status": "Available"
+    },
+    {
+      "id": "15",
+      "title": "Sunset Hearts",
+      "author": "Anna Reid",
+      "genre": "Fiction",
+      "year": 2005,
+      "status": "Available"
+    },
+    {
+      "id": "16",
+      "title": "Chamber of Whispers",
+      "author": "Joan Kerr",
+      "genre": "Mystery",
+      "year": 2012,
+      "status": "Issued"
+    },
+    {
+      "id": "17",
+      "title": "Behavior Unlocked",
+      "author": "Dr. Alan Pike",
+      "genre": "Psychology",
+      "year": 2019,
+      "status": "Available"
+    },
+    {
+      "id": "18",
+      "title": "Ancient Echoes",
+      "author": "Leonard Bruce",
+      "genre": "Classic",
+      "year": 1901,
+      "status": "Issued"
+    },
+    {
+      "id": "19",
+      "title": "Silent Rage",
+      "author": "Tara Blake",
+      "genre": "Thriller",
+      "year": 2022,
+      "status": "Available"
+    },
+    {
+      "id": "20",
+      "title": "Fictional Fates",
+      "author": "Nina Abbott",
+      "genre": "Fiction",
+      "year": 2008,
+      "status": "Issued"
+    },
+    {
+      "id": "21",
+      "title": "Midnight Clues",
+      "author": "Owen Sharp",
+      "genre": "Mystery",
+      "year": 2010,
+      "status": "Available"
+    },
+    {
+      "id": "22",
+      "title": "Brainwaves",
+      "author": "Dr. Helen Yang",
+      "genre": "Psychology",
+      "year": 2016,
+      "status": "Issued"
+    },
+    {
+      "id": "23",
+      "title": "Gothic Grace",
+      "author": "Vivian Stokes",
+      "genre": "Classic",
+      "year": 1885,
+      "status": "Available"
+    },
+    {
+      "id": "24",
+      "title": "The Hunter's Game",
+      "author": "Rick Donahue",
+      "genre": "Thriller",
+      "year": 2018,
+      "status": "Available"
+    },
+    {
+      "id": "25",
+      "title": "Whispers in Autumn",
+      "author": "Lacey Cross",
+      "genre": "Fiction",
+      "year": 2007,
+      "status": "Issued"
+    },
+    {
+      "id": "26",
+      "title": "Fogbound",
+      "author": "Paul Hammond",
+      "genre": "Mystery",
+      "year": 2013,
+      "status": "Available"
+    },
+    {
+      "id": "27",
+      "title": "Inner Peace",
+      "author": "Dr. Maya Verma",
+      "genre": "Psychology",
+      "year": 2020,
+      "status": "Available"
+    },
+    {
+      "id": "28",
+      "title": "Empire's Fall",
+      "author": "Caleb Wren",
+      "genre": "Classic",
+      "year": 1930,
+      "status": "Issued"
+    },
+    {
+      "id": "29",
+      "title": "Pulse",
+      "author": "Aiden Wolfe",
+      "genre": "Thriller",
+      "year": 2023,
+      "status": "Available"
+    },
+    {
+      "id": "30",
+      "title": "Beyond Words",
+      "author": "Sandra Hill",
+      "genre": "Fiction",
+      "year": 2012,
+      "status": "Available"
+    },
+    {
+      "id": "31",
+      "title": "Murder on 9th",
+      "author": "Gina Rhodes",
+      "genre": "Mystery",
+      "year": 2021,
+      "status": "Issued"
+    },
+    {
+      "id": "32",
+      "title": "Cognitive Sparks",
+      "author": "Dr. Brian Ash",
+      "genre": "Psychology",
+      "year": 2015,
+      "status": "Available"
+    },
+    {
+      "id": "33",
+      "title": "Winds of Time",
+      "author": "Rachel Stone",
+      "genre": "Classic",
+      "year": 1899,
+      "status": "Available"
+    },
+    {
+      "id": "34",
+      "title": "Deadlock",
+      "author": "Oliver King",
+      "genre": "Thriller",
+      "year": 2022,
+      "status": "Issued"
+    },
+    {
+      "id": "35",
+      "title": "Hearts Rewritten",
+      "author": "Eva James",
+      "genre": "Fiction",
+      "year": 2010,
+      "status": "Available"
+    },
+    {
+      "id": "36",
+      "title": "The Disappearance",
+      "author": "Maggie Cruz",
+      "genre": "Mystery",
+      "year": 2014,
+      "status": "Issued"
+    },
+    {
+      "id": "37",
+      "title": "Mind Gym",
+      "author": "Dr. Henry Clark",
+      "genre": "Psychology",
+      "year": 2017,
+      "status": "Available"
+    },
+    {
+      "id": "38",
+      "title": "Echoes in the Hall",
+      "author": "Irene Locke",
+      "genre": "Classic",
+      "year": 1860,
+      "status": "Issued"
+    },
+    {
+      "id": "39",
+      "title": "Target Zero",
+      "author": "Tom Vega",
+      "genre": "Thriller",
+      "year": 2023,
+      "status": "Available"
+    },
+    {
+      "id": "40",
+      "title": "The Distant Shore",
+      "author": "Naomi Price",
+      "genre": "Fiction",
+      "year": 2006,
+      "status": "Issued"
+    },
+    {
+      "id": "41",
+      "title": "Shadow Clues",
+      "author": "Jules Dean",
+      "genre": "Mystery",
+      "year": 2011,
+      "status": "Available"
+    },
+    {
+      "id": "42",
+      "title": "The Subconscious Key",
+      "author": "Dr. Lisa Trent",
+      "genre": "Psychology",
+      "year": 2019,
+      "status": "Available"
+    },
+    {
+      "id": "43",
+      "title": "Old Souls",
+      "author": "Robert Lang",
+      "genre": "Classic",
+      "year": 1911,
+      "status": "Issued"
+    },
+    {
+      "id": "44",
+      "title": "Zero Hour",
+      "author": "Natalie Ford",
+      "genre": "Thriller",
+      "year": 2021,
+      "status": "Available"
+    },
+    {
+      "id": "45",
+      "title": "Chasing Destiny",
+      "author": "Harper Kane",
+      "genre": "Fiction",
+      "year": 2003,
+      "status": "Issued"
+    },
+    {
+      "id": "46",
+      "title": "The Missing Note",
+      "author": "Derrick Flynn",
+      "genre": "Mystery",
+      "year": 2016,
+      "status": "Available"
+    },
+    {
+      "id": "47",
+      "title": "Thinking Fast",
+      "author": "Dr. Eric Lane",
+      "genre": "Psychology",
+      "year": 2018,
+      "status": "Available"
+    },
+    {
+      "id": "48",
+      "title": "Timeless Tales",
+      "author": "Agnes Shelley",
+      "genre": "Classic",
+      "year": 1907,
+      "status": "Issued"
+    },
+    {
+      "id": "49",
+      "title": "Heatwave",
+      "author": "Zane Lewis",
+      "genre": "Thriller",
+      "year": 2020,
+      "status": "Available"
+    },
+    {
+      "id": "50",
+      "title": "Parallel Lives",
+      "author": "Cara Benson",
+      "genre": "Fiction",
+      "year": 2013,
+      "status": "Issued"
+    }
+  ]
+}
