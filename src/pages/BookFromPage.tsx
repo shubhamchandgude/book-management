@@ -89,7 +89,10 @@ const BookFormPage = () => {
         helperText={formik.touched.genre && formik.errors.genre}
       >
         <MenuItem value="Fiction">Fiction</MenuItem>
-        <MenuItem value="Non-Fiction">Non-Fiction</MenuItem>
+        <MenuItem value="Mystery">Mystery</MenuItem>
+        <MenuItem value="Thriller">Thriller</MenuItem>
+        <MenuItem value="Classic">Classic</MenuItem>
+        <MenuItem value="Psychology">Psychology</MenuItem>
       </TextField>
       <TextField
         type="number"
