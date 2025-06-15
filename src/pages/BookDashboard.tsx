@@ -111,7 +111,7 @@ const BookDashboard = () => {
         </Grid>
       </Grid>
       {loading ? (
-        <CircularProgress />
+        <CircularProgress sx={{position:"absolute", top:"20%", left:"50%"}}/>
       ) : (
         <Box>
           <Grid container spacing={2}>
