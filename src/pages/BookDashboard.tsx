@@ -125,7 +125,7 @@ const BookDashboard = () => {
             component="div"
             count={filtered.length}
             page={page}
-            onPageChange={(e, newPage) => setPage(newPage)}
+            onPageChange={(newPage: any) => setPage(newPage)}
             rowsPerPage={10}
             rowsPerPageOptions={[10]}
           />
