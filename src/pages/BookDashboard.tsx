@@ -24,7 +24,6 @@ const BookDashboard = () => {
   const [page, setPage] = useState(0);
 
   const navigate = useNavigate();
-  console.log(search, "search");
   useEffect(() => {
     fetchBooks();
   }, []);
@@ -100,7 +99,7 @@ const BookDashboard = () => {
             <MenuItem value="Issued">Issued</MenuItem>
           </Select>
         </Grid>
-        <Grid size={{ xs: 12 }} display={"flex"} justifyContent={"end"}>
+        <Grid size={{ xs: 12 }} mb={2} display={"flex"} justifyContent={"end"}>
           <Button
             sx={{ width: { xs: "100%", md: "20%" } }}
             variant="contained"
@@ -111,7 +110,9 @@ const BookDashboard = () => {
         </Grid>
       </Grid>
       {loading ? (
-        <CircularProgress sx={{position:"absolute", top:"20%", left:"50%"}}/>
+        <CircularProgress
+          sx={{ position: "absolute", top: "20%", left: "50%" }}
+        />
       ) : (
         <Box>
           <Grid container spacing={2}>
@@ -125,7 +126,10 @@ const BookDashboard = () => {
             component="div"
             count={filtered.length}
             page={page}
-            onPageChange={(newPage: any) => setPage(newPage)}
+            onPageChange={(e, newPage) => {
+              setPage(newPage);
+              console.log(e);
+            }}
             rowsPerPage={10}
             rowsPerPageOptions={[10]}
           />
