@@ -1,7 +1,7 @@
 import axios from "axios";
 import { type Book } from "../types";
 
-const API_URL = "http://localhost:3001/books";
+const API_URL = "https://books-json-data-dcne.onrender.com/api/books";
 
 export const getBooks = async () => {
   const res = await axios.get(API_URL);
